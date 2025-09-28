@@ -11,6 +11,8 @@ Paper:
   10. Acting Less is Reasoning More! Teaching Model to Act Efficiently https://arxiv.org/pdf/2504.14870
   11. CoRT: Code-integrated Reasoning within Thinking https://arxiv.org/pdf/2506.09820
   12. Interleaved Reasoning for Large Language Models via Reinforcement Learning https://arxiv.org/pdf/2505.19640
+  13. R1-Searcher: Incentivizing the Search Capability in LLMs via Reinforcement Learning https://arxiv.org/pdf/2503.05592
+  14. DeepResearcher: Scaling Deep Research via Reinforcement Learning in Real-world Environments  https://arxiv.org/pdf/2504.03160
   
 
 
