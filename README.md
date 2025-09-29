@@ -26,3 +26,4 @@ Code(开源代码):
   项目地址：https://github.com/PeterGriffinJin/Search-R1
   5. ReTool: Reinforcement Learning for Strategic Tool Use in LLMs
   项目地址：https://github.com/ReTool-RL/ReTool
+新增https://github.com/volcengine/verl
